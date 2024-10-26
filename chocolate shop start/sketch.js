@@ -33,7 +33,7 @@ var lines = [{
 ];
 
 function setup() {
-	createCanvas(800, 600);
+	createCanvas(1500, 600);
 
 	//add our chocolate Stock to the shopStock object
 	shopStock = new Stock();
